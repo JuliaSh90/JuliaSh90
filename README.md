@@ -1,6 +1,7 @@
 👋 Hi, I’m Julia.
 I'm a novice data analyst, studying at the Hexlet online-school.
-
+I have a higher education in economics and I also strive for development in the field of data analytics.
+My email address - usabalkina@gmail.com. 
 Tech stack:
 - PostgreSQL
 - Google Sheets
